@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. http://hiteshsahu.com- All Rights Reserved
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited
+  ~ If you use or distribute this project then you MUST ADD A COPY OF LICENCE
+  ~ along with the project.
+  ~  Written by Hitesh Sahu <hiteshkrsahu@Gmail.com>, 2017.
+  -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/control_overview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_gravity="center_horizontal|top"
+    android:background="@color/CardColor"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/primaryTextColor"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+
+
+    <RelativeLayout
+        android:id="@+id/checkout_item_root"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/CardColor"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <FrameLayout
+            android:id="@+id/item_counter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="20">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+
+                app:srcCompat="@drawable/ic_shopping_cartt"
+                android:padding="5dp"
+
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/item_count"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="top|left"
+                android:background="@drawable/round_text_cart_item"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/primaryDarkColor" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/checkout_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:ellipsize="marquee"
+
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:freezesText="true"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+
+           android:maxLines="1"
+            android:text="0"
+
+
+            android:textColor="@color/primaryDarkColor"
+            android:textSize="20sp"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/item_counter"
+            android:layout_toEndOf="@+id/item_counter" />
+
+        <FrameLayout
+            android:id="@+id/checkout_envelop"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Payment"
+                android:id="@+id/Payment"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:theme="@style/PrimaryFlatButton"
+                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:textColor="@color/primaryDarkColor"
+                android:layout_marginRight="12dp"/>
+
+        </FrameLayout>
+    </RelativeLayout>
+
+</LinearLayout>

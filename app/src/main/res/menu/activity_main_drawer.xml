@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+
+            android:title="@string/Home" />
+        <!--android:icon="@drawable/ic_menu_camera"-->
+
+
+        <item
+            android:id="@+id/whous"
+
+            android:title="@string/AboutUs" />
+        <!--android:icon="@drawable/ic_menu_camera"-->
+    </group>
+
+    <!--<item android:title="الوكالات">-->
+        <!--<menu>-->
+
+            <!--<group-->
+                <!--android:id="@+id/grp2"-->
+                <!--android:checkableBehavior="all">-->
+                <!--<item-->
+                    <!--android:id="@+id/nav_share2"-->
+                    <!--android:title="شكة لوك أويل" />-->
+                <!--<item-->
+                    <!--android:id="@+id/nav_send3"-->
+                    <!--android:title="شركة ويستا" />-->
+
+
+            <!--</group>-->
+        <!--</menu>-->
+    <!--</item>-->
+    <!--<item android:title="المنتجات">-->
+        <!--<menu>-->
+
+    <!--<group android:id="@+id/grp3" android:checkableBehavior="all">-->
+
+
+                <!--<item-->
+                    <!--android:id="@+id/nav_share"-->
+                    <!--android:title="زيوت لوك أويل" />-->
+                <!--<item-->
+                    <!--android:id="@+id/nav_send"-->
+                    <!--android:title="بطاريات ويستا" />-->
+
+
+                <!--<item-->
+                    <!--android:id="@+id/nav_send2"-->
+
+                    <!--android:title="قطع غيار الشاحنا والمعدات الثقيلة" />-->
+
+
+    <!--</group>-->
+            <!--</menu>-->
+    <!--</item>-->
+    <!--<group  android:id="@+id/grp4" android:checkableBehavior="single" >-->
+        <!--<item-->
+            <!--android:id="@+id/nav_manage"-->
+            <!--android:title="تواصل معنا" />-->
+        <!--&lt;!&ndash;android:icon="@drawable/ic_menu_manage"&ndash;&gt;-->
+
+    <!--</group>-->
+
+
+
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+
+    <!--<color name="primaryColor">#212121</color>-->
+    <!--<color name="primaryColor">#000000</color>-->
+    <color name="primaryColor">#ececec</color>
+    <color name="CardColor">#dcdcdc</color>
+    <color name="primaryLightColor">#484848</color>
+    <color name="primaryDarkColor">#000000</color>
+    <color name="primaryTextColor2">#ca9c1e</color>
+    <!--<color name="primaryTextColor2">#f4bd28</color>-->
+    <!--<color name="primaryTextColor">#e4e4e2</color>-->
+    <color name="primaryTextColor">#aeaeae</color>
+
+
+
+    <color name="holo_gray_light">#33999999</color>
+
+
+
+
+</resources>

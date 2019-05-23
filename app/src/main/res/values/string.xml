@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">Huoil</string>
+    <string name="app_name2">Huoil</string>
+    <string name="bta">Batteries</string>
+    <string name="zut">Oils</string>
+    <string name="aterat">Tires</string>
+
+
+    <!--Main_Screnn-->
+
+    <string name="showGoods">Our Products</string>
+    <string name="contactUs">Contact us</string>
+    <string name="Agents">Agents</string>
+    <string name="registrationProfit">Register and participate with us for get advanges and prizes</string>
+    <string name="registration">Register</string>
+
+    <!--Main_Screnn-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+
+    <string name="Name">Name</string>
+    <string name="CompanyActivity">Company activity</string>
+    <string name="singup">Sign Up</string>
+
+
+    <string-array name="companyActivity">
+        <item>Commercial Company</item>
+        <item>Worker</item>
+        <item>Independent Person</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="AcountBank">
+        <item>Alkuraimi</item>
+
+    </string-array>
+
+
+    <string-array name="MethodPayment">
+        <item>Alkuraimi</item>
+    </string-array>
+
+
+
+
+    <string name="oils">petroleum Lotus Oils</string>
+    <string name="oils_d">Diesel lotus oils</string>
+    <string name="oils_Eles">Eles oils</string>
+    <string name="atarat">RoadSun Tires</string>
+    <string name="batter">Honshu Batteries</string>
+
+
+    <string name="Home">Home</string>
+    <string name="AboutUs">About Us</string>
+    <string name="yemen">Yemen</string>
+    <string name="telephone">Phone number</string>
+    <string name="firstNumber">224567</string>
+    <string name="secondNumber">229656</string>
+    <string name="freeCallNumber">Free communication number</string>
+    <string name="email">E-mail</string>
+    <string name="whatsup">Subscribe to the Whats app group</string>
+    <string name="facebook">Follow us on Facebook</string>
+    <string name="locationonMap">Our location on the map</string>
+    <string name="Application"> Application</string>
+    <string name="profitProduct">Main benefits</string>
+    <string name="Payment">Payment</string>
+    <string name="NoItemInCard">There are no items in the cart</string>
+    <string name="ItemInCard">List items in the cart</string>
+    <string name="Registerandsubscribewithustogetouradvantagesandprizes">Register and participate with us for get advanges and prizes.</string>
+    <string name="lutos">Lotus Oils</string>
+    <string name="honshu">Honshu Batteries</string>
+    <string name="splashscreenone">Huoil Company Specialized In Oils</string>
+    <string name="splashscreetwo">We Help You Choose Your Car Oil</string>
+    <string name="Company">Cmopany</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="SocialMedia">Social Media</string>
+    <string name="productname">Product Name</string>
+    <string name="productdes">Product Description</string>
+    <string name="car_number">Truck Number</string>
+    <string name="Address">Address: Sana\'a 60th Street next to Al Hussein Steel CompanyAddress: Sana\'a 60th Street next to Al Hussein Steel Company .</string>
+    <string name="ERRORNAME">Inter Your Name Please.</string>
+    <string name="ERRORNUMBER">Inter Your Number Please.</string>
+
+
+
+
+    <string name="paymentStatamentone">Pay the amount to the following accounts numbers.</string>
+    <string name="Accounts">Accounts</string>
+    <string name="paymentStatamenttow">Payment through this payment method.</string>
+    <string name="locationdetermint">Determine your location on the map</string>
+    <string name="Recipientname">Recipient name</string>
+    <string name="Recipientnumber">Recipient number</string>
+    <string name="notessn">Note Goods are received via ID card</string>
+    <string name="notecancelorder">Note Cancel the order for day</string>
+    <string name="Registrationsuccessful">Registration successful.</string>
+    <string name="RegistrationEroo">Registration unsuccessful.</string>
+    <string name="Note">Note</string>
+    <string name="waitplease">Wait Please.</string>
+    <string name="CheckInternet">Check Internet Connection Please.</string>
+    <string name="EnterYourAccountNumber">Enter Your Account Number</string>
+    <string name="EnterRecipienName">Enter Recipien Name</string>
+    <string name="EnterRecipienNumber">Enter Recipien Number</string>
+    <string name="RgisterYourLocation">Rgister Your Location Please</string>
+    <string name="YourAccountNumber">Your Account Number</string>
+    <string name="whousStatement1">هيوأويـــــل لزيوت المحركات العالمية</string>
+    <string name="whousStatement">مجموعة متكاملة من التوكيلات ومن افخر مصانع حول العالم.</string>
+    <string name="whousStatement3">وكلاء لاعرق واكبر مصانع حول العالم وهي الانقي في التصنيع الافضل في الجودة الاطول عمرا الاقوى في الاداء</string>
+    <string name="whousStatement4">منذ نشأنة هيواويل وهي تنمو بشكل متصاعد. بمساعدة المتخصصين في مجال زيت التدفئة والوقود في الخلفية والاطارات والبطاريات ولدينا قاعدة متينة لمواجهة تحديات الغد. حالياً نقوم من موقع شركتنا في غطينا جميع مناطق اليمن . كفاءة عالية وثقة وأمان - منتجاتنا تساعد عملائنا على التحرك! فلدينا تحصلون على كل شئ من جهة واحدة! فبفضل السعة الشاسعة لمخازننا وأحدث تقنيات التعبئة نستطيع في أي وقت وبسرعة ومرونة تلبية رغباتكم واحتياجاتكم! قدرة توريد فورية، فترات توريد قصيرة ودعم سريع، عندما يتطلب الأمر ذلك - هذه هي المميزات التي نضمنها لكم يوم بيوم! بدون إذا وبدون لكن نهيئ أنفسنا لتلبية احتياجاتكم! فأسلوب العمل التشاركي هو حجر الأساس في فلسفة شركتنا. رضاكم هو دائماً لدينا في محور الاهتمام.</string>
+    <string name="DontItemExist">No item exist in Card.</string>
+    <string name="Paymentsuccessful">payment done successful.</string>
+    <string name="PaymentEroo">Your payment was not successful. </string>
+
+
+
+
+
+
+
+
+
+    <string name="Zut1">LOTUS SUPER OIL - API SL SUPER 20W50</string>
+    <string name="ZutDis1">LOTUS Ultra Oil - API SL is very high performance petrol engine lubricant, it is a multi grade oil of
+API-SL level for use in almist all kind of turbo charged heavy duty diesel engine. it’s a blend high
+level of detergency and dispersancy. it has a stable viscosity index improver that does not shear
+off under severe operating conditions of high load at high temperature.</string>
+    <string name="ZuteUse1">Lotus Oil - API - SL Oil can be used under normal conditions for mixed fleet of petrol ِand gasoline engines.</string>
+    <string name="ZutePrice1">170</string>
+    <string name="ZuteBenefit1">-Provide longer engine life .</string>
+    <string name="ZuteBenefit2">-Longer drain period .</string>
+    <string name="ZuteBenefit3">-Low temperature fluidity,low oil consumption. </string>
+    <string name="ZuteBenefit4">-Fuel economy and superior wear control of engine parts . </string>
+    <string name="ZuteBenefit5">-Control piston deposits, engine cleanliness. </string>
+    <string name="ZuteBenefit6">-High resistance to oxidation and thermal degradation . </string>
+    <string name="Next">Next</string>
+
+
+
+
+
+
+
+
+    <string name="Zut2">LOTUS ULTRA OIL - API SL 20w50</string>
+    <string name="ZutDis2">LOTUS Ultra Oil - API SL is very high performance petrol engine lubricant, it is a multi grade oil of
+API-SL level for use in almist all kind of turbo charged heavy duty diesel engine. it’s a blend high
+level of detergency and dispersancy. it has a stable viscosity index improver that does not shear
+off under severe operating conditions of high load at high temperature.
+</string>
+    <string name="ZuteUse2">Lotus Oil - API - SL Oil can be used under normal conditions for mixed fleet of petrol  and gasoline engines. </string>
+    <string name="ZutePrice2">220</string>
+    <string name="ZuteBenefit2_1">-Provide longer engine life .</string>
+    <string name="ZuteBenefit2_2">-Longer drain period .</string>
+    <string name="ZuteBenefit2_3">-Low temperature fluidity,low oil consumption .</string>
+    <string name="ZuteBenefit2_4">-Fuel economy and superior wear control of engine parts .  </string>
+    <string name="ZuteBenefit2_5">-Control piston deposits, engine cleanliness . </string>
+    <string name="ZuteBenefit2_6">-High resistance to oxidation and thermal degradation . </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Zut3">LOTUS Galaxy - API SL 10W30</string>
+    <string name="ZutDis3">LOTUS Galaxy - API SL is a unique synthetic lubricant for ultimate engine protection and
+performance, it is multi grade motor oil formulated from selected base fluids and race
+proven additive technology for use in passenger cars and light truck gasoline engines under
+all operating conditions.</string>
+    <string name="ZuteUse3">LOTUS SL synthetic Oil can be used for all naturally aspirated, fuel injected, turbo
+charged and multivalve passenger car engines .</string>
+    <string name="ZutePrice3">8.25</string>
+    <string name="ZuteBenefit3_1">-Ultimate protction in all driving conditions .</string>
+    <string name="ZuteBenefit3_2">-Rapid Oil flow and low friction effectively contributes towards reducing fuel consumption .</string>
+    <string name="ZuteBenefit3_3">-Meets environmental requirements .</string>
+
+    <string name="Zutpropaties3">لوتس كلاسيك ساي W305  يستخدم لجميع الآليات ومتطلبات جميع مصنعي السيارات الرئيسية.</string>
+
+
+
+
+
+    <string name="Zut4">LOTUS SPHERO - API CI4</string>
+    <string name="ZutDis4">LOTUS SPHERO - API CI4 is superior quality long drain multi grade oil formulated with highly
+refined base stock selective additive package. LOTUS SPHERO - API CI4 is serve duty engine oil
+formulated specially for high speed, four stroke diesel engines designed to meet exhaust
+emission standard and also suitable for a wide range of heavy duty off - highway applications</string>
+    <string name="ZuteUse4">LOTUS SPHERO - API CI4 can be used in the latest low emission and high
+performance engine of road transport, construction and other industries
+</string>
+    <string name="ZutePrice4">8.30</string>
+    <string name="ZuteBenefit4_1">-Superior protection against thermal brake down at high temperature .</string>
+    <string name="ZuteBenefit4_2">-Lower exhaust emission .</string>
+    <string name="ZuteBenefit4_3">-Excellent performance in heavy duty operation.</string>
+    <string name="ZuteBenefit4_4">-Superior oxidation , thermal stability .  </string>
+    <string name="ZuteBenefit4_5">-life engine prolong and interval drain L . </string>
+
+
+    <string name="Zutpropaties4">لوتس كلاسيك ساي W305  يستخدم لجميع الآليات ومتطلبات جميع مصنعي السيارات الرئيسية.</string>
+
+
+
+
+
+
+
+
+    <string name="Zut5">LOTUS SWIFT OIL - GL4
+</string>
+    <string name="ZutDis5">LOTUS Swift OIL GL4 blended with highly refined mineral base oil and selective additives
+for use in heavy duty operations are used in commercial fleet, manual transmission, axles
+and final drives Protects from rust , corrosion and low temperature properties gives good
+start in cold weather .</string>
+    <string name="ZuteUse5">LOTUS OIL - GL4 Gear Oil Lubricants are recommended for use in hypoid Gears,
+compatible with seal and gasket material used in automotive gears. Drive axle, trucks, and
+taxi cabs, contracting and farming equipment.</string>
+    <string name="ZutePrice5">238</string>
+    <string name="ZuteBenefit5_1">-Excellent anti-wear and anti - rust characteristics. Resistance to oxidation and oil
+thickening. Maximize equipment life and assist smooth shifting in manual transmission.
+Outstanding performance against low speed / high torque wear and high speed scoring.
+Protects against corrosion of ferrous and non - ferrous components. Compatible with all
+type of seals to avoid leakage.</string>
+
+
+
+
+
+
+
+
+    <string name="Zut6">LOTUS BLITZ - API CH4</string>
+    <string name="ZutDis6">LOTUS BLITIZ - API CH4 is superior quality long drain multi grade oil formulated with highly
+refined base stock selective additive package. LOTUS BLITIZ - API CH4 is serve duty engine oil
+formulated specially for high speed, four stroke diesel engines designed to meet exhaust
+emission standard and also suitable for a wide range of heavy duty off - highway applications.</string>
+    <string name="ZuteUse6">LOTUS SPHERO - API CI4 can be used in the latest low emission and high
+performance engine of road transport, construction and other industries
+.</string>
+    <string name="ZutePrice6">110</string>
+    <string name="ZuteBenefit6_1">-Superior protection against thermal brake down at high temperature .</string>
+    <string name="ZuteBenefit6_2">-Lower exhaust emission .</string>
+    <string name="ZuteBenefit6_3">-Excellent performance in heavy duty operation  .</string>
+    <string name="ZuteBenefit6_4">-Superior oxidation , thermal stability.  </string>
+    <string name="ZuteBenefit6_5">-Longer drain interval and prolong engine life . </string>
+
+    <string name="Zutpropaties6">لوتس كلاسيك ساي W305  يستخدم لجميع الآليات ومتطلبات جميع مصنعي السيارات الرئيسية.</string>
+
+
+
+
+
+
+    <string name="Zut7">LOTUS OIL LUBRICANTS
+HEAVY DUTY BRAKE FLUID DOT 3</string>
+    <string name="ZutDis7">Lotus Oil Lubricants Heavy Duty Brake , Clutch Fluid DOT - 3 is a Premium glycol Quality
+Automotive Brake Fluid meeting the specifications of DOT - 3 and SAE J1703.</string>
+    <string name="ZuteUse7">LOTUS Oil Heavy Duty Brake Fluid generally used in disc and drums brake systems
+as well as clutch fluid meeting above standards.</string>
+    <string name="ZutePrice7">110</string>
+    <string name="ZuteBenefit7_1">-Long Volatility and low pour point ensure performance in normal temperature range .</string>
+    <string name="ZuteBenefit7_2">-Provides protection against rust and corrosion.</string>
+    <string name="ZuteBenefit7_3">-Compatible with rubber Seals.</string>
+    <string name="ZuteBenefit7_4">-Miscible with other approved glycol ether .  </string>
+    <string name="ZuteBenefit7_5">-Good Braking response. Reduces chances of vapor lock. </string>
+
+    <string name="Zutpropaties7">لوتس كلاسيك ساي W305  يستخدم لجميع الآليات ومتطلبات جميع مصنعي السيارات الرئيسية.</string>
+
+
+
+
+    <string name="Zut8">CALSUIM</string>
+    <string name="Zut9">BREEAZE</string>
+    <string name="Zut10">FLUSH OIL</string>
+    <string name="Zut11">CLASIC 5W30</string>
+    <string name="Zut12">CLASIC 5W40</string>
+    <string name="Zut13">COMPRESSORS</string>
+
+
+
+
+
+
+
+
+    <string name="Tiers1">RoadSun Products </string>
+    <string name="Tiers1Dis1">Pilot product 4.</string>
+    <string name="TiersPath1">- زيت لوتس الفرامل السائل تستخدم عادة في أنظمة الفرامل وطبول الفرامل وكذلك مصنع وفق أعاله المعايير الدولية .</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+    <string name="Tiers2">
+Haveld Products</string>
+    <string name="Tiers1Dis2">Haveld tires.</string>
+    <string name="TiersPath2">- زيت لوتس الفرامل السائل تستخدم عادة في أنظمة الفرامل وطبول الفرامل وكذلك مصنع وفق أعاله المعايير الدولية .</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+    <string name="Tiers3">Haveld Products</string>
+    <string name="Tiers1Dis3">Haveld tires FOR heavy equipment.</string>
+    <string name="TiersPath3">- زيت لوتس الفرامل السائل تستخدم عادة في أنظمة الفرامل وطبول الفرامل وكذلك مصنع وفق أعاله المعايير الدولية .</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+
+
+    <string name="Battery1">Honshu Products</string>
+    <string name="BatteryDis1">Honshu electronic battery</string>
+    <string name="BatteryPath3">- زيت لوتس الفرامل السائل تستخدم عادة في أنظمة الفرامل وطبول الفرامل وكذلك مصنع وفق أعاله المعايير الدولية .</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+
+
+
+    <string name="whousAbout_statment_one">Huoil was founded in 2003 as an exclusive agent for Arlube and since then it has grown exponentially as we have become exclusive agents for: lotus oils, revere oils.
+With the help of specialists in the field of heating oil and fuel in the background we have a solid base to meet the challenges of tomorrow, we are currently from the site of the institution to supply our customers in all governorates of Yemen.</string>
+    <string name="whousAbout_statment_tow">Commitment to Excellence \n
+performance
+We believe that our success lies in maintaining the reputation we have gained as a result of our strong commitment to providing high quality products and services. In addition to our efforts to maintain customer satisfaction, we know that this requires continuous investment to upgrade and upgrade our assets to meet the highest technical standards, And develop the employees of the institution to be able to maintain superior performance.
+We always strive to keep abreast of the times by providing the latest machinery and equipment with high-tech and efficient staff, which makes the company in the expansion and development of permanent. We have built a solid base of trust and credibility. All our dealings with our customers and partners are based on the principle of trust, even if this leads to sacrificing a short-term profit to build a relationship. Long-term. So our customers put their trust in us because they know how much we are keen to meet their needs every time. In addition to our high professional ethics committed by all our employees.
+We seek excellence in all our products and services, and are skillful in our use of technology and our machines work at the highest levels. Our after-sale service and maintenance services are of the highest quality and the same reputation applies to the high quality products we distribute. We always make extra efforts to satisfy our customers.
+The full commitment is our approach to every project we undertake and in every partnership we hold, where we provide support and supervision in every project until it is completed, and even after completion. Our commitment to our customers, partners and employees is also evident in building their skills and enriching their information through training and development programs.
+Friendlyness and warmth prevail in all our dealings. This warmth extends to our customers and partners, where we share ideas, problems and decision-making processes whenever possible, which, in our opinion, is key to building long-term relationships. Internally, we view our staff as part of our larger family, and encourage them to participate and contribute to any matter at any level.</string>
+
+    <string name="whousAbout_statment_three">
+        Our Products Help Customers to Move!
+performance
+We have everything on one side! Thanks to the vast capacity of our stores and the latest packing technology we can anytime, quickly and flexibly meet your wishes and needs! Immediate supply capacity Short supply periods and quick support, when required - These are the features we guarantee to you day by day! Without if and without but we prepare ourselves to meet your needs! The participatory approach is the cornerstone of our organizations philosophy.Since its inception, Huaweel has clearly defined its mission to be the market leader in the supply of high quality oil products by possessing the best oils that meet the highest industrial standards, continue to develop the society and maintain the superior performance of its professional team. We have a full range of lubricant products for cars and trucks which have been developed based on a global technology extract in the field of environmentally friendly engine lubricant oils that are smooth and durable to maintain engine safety and provide the best levels Performance in different driving conditions with less fuel consumption is therefore recommended by senior automotive manufacturers and is supported in more than 60 countries around the world.
+    </string>
+    <string name="NoInfo">No Information Exist</string>
+
+    <string name="liter">1 liter</string>
+</resources>

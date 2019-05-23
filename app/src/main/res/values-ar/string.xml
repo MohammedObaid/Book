@@ -1,0 +1,291 @@
+<resources>
+    <string name="app_name">هيواويل</string>
+    <string name="app_name2">هيواويل</string>
+    <string name="bta">بطاريات</string>
+    <string name="zut">زيوت</string>
+    <string name="aterat">اطارات</string>
+
+
+    <!--Main_Screnn-->
+
+    <string name="showGoods">منتجاتنا</string>
+    <string name="contactUs">تواصل معنا</string>
+    <string name="Agents">وكلاء</string>
+    <string name="registrationProfit">سجل وشارك معنا لتحصل على مزايا وجوائز</string>
+    <string name="registration">سجل</string>
+
+    <!--Main_Screnn-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="Name">الاسم</string>
+    <string name="CompanyActivity">نشاط الشركة</string>
+    <string name="singup">تسجيل</string>
+
+
+
+
+
+
+    <string-array name="AcountBank">
+        <item>الكريمي</item>
+    </string-array>
+
+
+    <string-array name="MethodPayment">
+        <item>الكريمي</item>
+    </string-array>
+
+
+    <string-array name="companyActivity">
+        <item>شركة تجارية</item>
+        <item>بنشر</item>
+        <item>شخص مستقل</item>
+
+    </string-array>
+
+
+
+    <string name="oils">زيوت لوتس البترول</string>
+    <string name="oils_d">زيوت لوتس الديزل</string>
+    <string name="atarat">اطارات رودسن</string>
+    <string name="batter">بطاريات هونشو</string>
+
+
+
+    <string name="Home">الرئيسية</string>
+    <string name="AboutUs">من نحن</string>
+    <string name="yemen">اليمن</string>
+    <string name="telephone">ارقم الهاتف</string>
+    <string name="firstNumber">224567</string>
+    <string name="secondNumber">229656</string>
+    <string name="freeCallNumber">ارقام التواصل المجانية</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="whatsup">اشترك في مجموعة الوتساب</string>
+    <string name="facebook">تابعونا على الفيس بوك</string>
+    <string name="locationonMap">موقعنا على الخريطة</string>
+    <string name="Application">الاستخدام</string>
+    <string name="profitProduct">فوائد الرئيسية</string>
+    <string name="Payment">الدفع</string>
+    <string name="NoItemInCard">لايوجد اي عناصر في السلة</string>
+    <string name="ItemInCard">قائمة العناصر االسلة</string>
+    <string name="Registerandsubscribewithustogetouradvantagesandprizes">سجل واشترك معنا لتحصل على مميزاتنا وجوائزنا.</string>
+    <string name="lutos">زيوت لوتس للسيارات</string>
+    <string name="honshu">بطاريات هنشو</string>
+    <string name="splashscreenone">شركة هيواويل المتخصصه في الزيوت</string>
+    <string name="splashscreetwo">نحن نساعدك في اختيار زيت سيارتك</string>
+
+    <string name="Company">الشركة</string>
+    <string name="PhoneNumber">رقم الهاتف</string>
+    <string name="SocialMedia">وسائل التواصل الاجتماعي</string>
+    <string name="productname">اسم المنتج</string>
+    <string name="productdes">مواصفات المنتج</string>
+    <string name="car_number">رقم الشاحنة</string>
+    <string name="Address">العنوان: صنعاء شارع الستين بجانب شركة آل حسين للحديد .</string>
+    <string name="ERRORNAME">ادخل الاسم.</string>
+    <string name="ERRORNUMBER">ادخل رقم الهاتف.</string>
+
+
+
+
+    <string name="paymentStatamentone">دفع المبلغ لأرقام الحسابات التالية.</string>
+    <string name="paymentStatamenttow">الدفع من خلال طريقة الدفع هذه.</string>
+    <string name="locationdetermint">حدد موقعك على الخريطة.</string>
+    <string name="Recipientname">اسم المستلم</string>
+    <string name="Recipientnumber">رقم المستلم</string>
+    <string name="notessn">ملاحظة يتم استلام البضائع عبر بطاقة الشخصية.</string>
+    <string name="notecancelorder">ملاحظة يتم الغأ الطلب خلال يوم واحد فقط.</string>
+    <string name="Registrationsuccessful">تمت عملية التسجيل بنجاح.</string>
+    <string name="RegistrationEroo">لم تمت عملية التسجيل بنجاح.</string>
+    <string name="Note">تنبية</string>
+    <string name="waitplease">انتظر من فضلك.</string>
+    <string name="CheckInternet">تحقق من اتصال الإنترنت من فضلك.</string>
+    <string name="EnterYourAccountNumber">ادخل رقم حسابك</string>
+    <string name="EnterRecipienName">ادخل رقم اسم</string>
+    <string name="EnterRecipienNumber">ادخل رقم المستلم</string>
+    <string name="RgisterYourLocation">قوم بتسجيل بيانات موقعك</string>
+    <string name="YourAccountNumber">رقم حسابك </string>
+    <string name="whousStatement1">هيوأويـــــل لزيوت المحركات العالمية</string>
+    <string name="whousStatement">مجموعة متكاملة من التوكيلات ومن افخر مصانع حول العالم.</string>
+    <string name="whousStatement3">وكلاء لاعرق واكبر مصانع حول العالم وهي الانقي في التصنيع الافضل في الجودة الاطول عمرا الاقوى في الاداء</string>
+    <string name="whousStatement4">منذ نشأنة هيواويل وهي تنمو بشكل متصاعد. بمساعدة المتخصصين في مجال زيت التدفئة والوقود في الخلفية والاطارات والبطاريات ولدينا قاعدة متينة لمواجهة تحديات الغد. حالياً نقوم من موقع شركتنا في غطينا جميع مناطق اليمن . كفاءة عالية وثقة وأمان - منتجاتنا تساعد عملائنا على التحرك! فلدينا تحصلون على كل شئ من جهة واحدة! فبفضل السعة الشاسعة لمخازننا وأحدث تقنيات التعبئة نستطيع في أي وقت وبسرعة ومرونة تلبية رغباتكم واحتياجاتكم! قدرة توريد فورية، فترات توريد قصيرة ودعم سريع، عندما يتطلب الأمر ذلك - هذه هي المميزات التي نضمنها لكم يوم بيوم! بدون إذا وبدون لكن نهيئ أنفسنا لتلبية احتياجاتكم! فأسلوب العمل التشاركي هو حجر الأساس في فلسفة شركتنا. رضاكم هو دائماً لدينا في محور الاهتمام.</string>
+    <string name="DontItemExist">لايوجد اي عناصر في السلة</string>
+    <string name="Paymentsuccessful">تمت عملية الدفع بنجاح.</string>
+    <string name="PaymentEroo">لم تمت عملية الدفع بنجاح.</string>
+
+    <string name="Next">التالي</string>
+
+    <string name="Zut1">لوتس سوبر لوتس - أبي سي</string>
+    <string name="ZutDis1">زيت لوتس الترا - أبي سي عالية األداء لمحرك البنزين ، بل هو زيت متعدد الدرجات من مستوى أ بي-اس ال لالستخدام لجميع انوع المحركات
+العادية و الثقيلة وجميع محركات الديزل . حيث لها مزيج مستوى عال من اللزوجة والتشتت .حيث لديها مؤشر اللزوجة مستقرة التحسين قابلة
+العمل تحت ظروف التشغيل الشديدة من تحمل اكثر و في درجات حرارة عالية.</string>
+    <string name="ZuteUse1">لوتس أويل -أ-بي-سي يمكن استخدام الزيت في الظروف العادية لأسطول مختلف من محركات البنزين والجازولين(الديزل) </string>
+    <string name="ZutePrice1">170</string>
+    <string name="ZuteBenefit1">-توفير عمر اطول للمحرك.</string>
+    <string name="ZuteBenefit2">-فترة استنزاف اطول.</string>
+    <string name="ZuteBenefit3">-انخفاض سيولة درجة الحرارة, انخفاض استهلاك الوقود .</string>
+    <string name="ZuteBenefit4">-الاقتصاد في استهلاك الوقود والتحكم في اداء اجزاء المحرك . </string>
+    <string name="ZuteBenefit5">-تحكم برواسب البستون ,لضمان نظافة المحرك. </string>
+    <string name="ZuteBenefit6">-مقاومة عالية للأكسدة والتدهور الحراري. </string>
+
+
+
+
+
+    <string name="Zut2">لوتس أولترا أويل-أبي سي</string>
+    <string name="ZutDis2">زيت لوتس الترا - أبي سي عالية األداء لمحرك البنزين ، بل هو زيت متعدد الدرجات من مستوى أ بي-اس ال لالستخدام لجميع انوع المحركات
+العادية و الثقيلة وجميع محركات الديزل . حيث لها مزيج مستوى عال من اللزوجة والتشتت .حيث لديها مؤشر اللزوجة مستقرة التحسين قابلة
+العمل تحت ظروف التشغيل الشديدة من تحمل اكثر و في درجات حرارة عالية.</string>
+    <string name="ZuteUse2">لوتس أولترا أويل-أبي سي يمكن استخدام الزيت في الظروف العادية لأسطول مختلف من محركات النزين والجازولين (الديزل).</string>
+    <string name="ZutePrice2">220</string>
+    <string name="ZuteBenefit2_1">-توفير عمر اطول للمحرك.</string>
+    <string name="ZuteBenefit2_2">-فترة استنزاف اطول .</string>
+    <string name="ZuteBenefit2_3">-انخفاض سيولة درجة الحرارة, انخفاض استهلاك الوقود .</string>
+    <string name="ZuteBenefit2_4">-الاقتصاد في استهلاك الوقود والتحكم في اداء اجزاء المحرك . </string>
+    <string name="ZuteBenefit2_5">-تحكم برواسب البستون ,لضمان نظافة المحرك. </string>
+    <string name="ZuteBenefit2_6">-مقاومة عالية للأكسدة والتدهور الحراري. </string>
+
+
+
+
+
+
+    <string name="Zut3">لوتس غاالكسي زيت المحركات سيارات الركاب .</string>
+    <string name="ZutDis3">لوتس غاالكسي - أبي سي هو زيوت التشحيم االصطناعية فريدة من نوعها لحماية المحرك في نهاية المطاف واألداء، فمن زيت
+المحركات متعددة الصف وضعت من السوائل قاعدة مختارة ثبتت التكنولوجيا المضافة الستخدامها في سيارات الركاب ومحركات
+البنزين والشاحنات الخفيفة في جميع ظروف التشغيل.
+</string>
+    <string name="ZuteUse3">زيت لوتس غالكسي االصطناعية النفطية لمحركات سيارات الركاب .</string>
+    <string name="ZutePrice3">8.25</string>
+    <string name="ZuteBenefit3_1">-الحماية في جميع ظروف القيادة.</string>
+    <string name="ZuteBenefit3_2">-يساهم بشكل سريع في تدفق الزيت والاحتكاك المنخفض بفعالية في خفض استهلاك الوفود. </string>
+    <string name="ZuteBenefit3_3">-يلبي المتطلبات البيئية.</string>
+
+
+
+
+
+
+    <string name="Zut4">زيت محركات الديزل CI4 زيت لوتس سفيرو - أبي</string>
+    <string name="ZutDis4">لوتس سفيرو - أبي CI4 هو جودة متفوقة طويلة االستنزاف للنفط ومتعددة وضعت حزمة األسهم االنتقائية للغاية. لوتس سفيرو - أبي CI4 هو
+خدمة زيت المحرك واجب وضعت خصيصا لسرعة عالية، أربعة محركات الديزل السكتة الدماغية مصممة لتلبية معيار االنبعاثات العادم وأيضا
+مناسبة لمجموعة واسعة من الثقيلة قبالة - تطبيقات الطريق السريع .</string>
+    <string name="ZuteUse4">وتس سفيرو - أبي CI4 يمكن استخدامها في أحدث انخفاض االنبعاثات وعالية األداء محرك النقل البري والبناء وغيرها
+من الصناعات.</string>
+    <string name="ZutePrice4">8.30</string>
+    <string name="ZuteBenefit4_1">-حماية متفوقة ضد الفرامل الحرارية ويتحمل في درجة حرارة عالية.</string>
+    <string name="ZuteBenefit4_2">-انخفاض انبعاث العادم . </string>
+    <string name="ZuteBenefit4_3">-اداء ممتاز في عملية الثقيلة .</string>
+    <string name="ZuteBenefit4_4">-الأكسدة متفوقة والاستقرار الحراري . </string>
+    <string name="ZuteBenefit4_5">-فترة اطول في استنزاف الوقود واطالة عمر المحرك. </string>
+
+
+
+
+
+    <string name="Zut5">زٌيت لوتس سوٌفت جٌروٌل النفط للمعدات</string>
+    <string name="ZutDis5">لوتس سوٌفت النفط GL4 المخلوطة مع النفط الخام المعدنٌة للغاٌة واإلضافات االنتقائٌة الستخدامها فً العملٌات الثقٌلة وتستخدم
+فً األسطول التجاري، ناقل الحركة الٌدوي، والمحاور ومحركات األقراص النهائٌة ٌحمً من الصدأ والتآكل وخصائص درجة
+حرارة منخفضة ٌعطً بداٌة جٌدة فً الطقس البارد.</string>
+    <string name="ZuteUse5">لوتس النفط GL4 - زٌوت التروس زٌوت ٌنصح الستخدامها فً هٌبود التروس، متوافقة مع ختم و طوقا المواد المستخدمة فً
+التروس السٌارات .محرك المحور، شاحنات، وسٌارات أجرة، التعاقد والمعدات الزراعٌة.</string>
+    <string name="ZutePrice5">238</string>
+    <string name="ZuteBenefit5_1">-ممتازة المضادة-- ارتداء ومكافحة-- الصدأ الخصائص. مقاومة األكسدة وزٌت سماكة. تعظٌم عمر المعدات والمساعدة على التحول
+السلس فً ناقل الحركة الٌدوي. األداء المتمٌز ضد انخفاض سرعة / ارتفاع ارتداء عزم الدوران وسرعة عالٌة التهدٌف. ٌحمً من تآكل
+المكونات الحدٌدٌة وغٌر الحدٌدٌة. متوافق مع كل نوع من األختام لتجنب تسرب.</string>
+
+
+
+
+
+    <string name="Zut6">زيت لوتس بليتز- أبي زيت محركات الديزل</string>
+    <string name="ZutDis6">لوتس بليتز - أبي CH4 هو جودة متفوقة طويلة االستنزاف للنفط ومتعددة وضعت حزمة األسهم االنتقائية للغاية. لوتس بليتز - أبي CH4 هو
+خدمة زيت المحرك واجب وضعت خصيصا لسرعة عالية، أربعة محركات الديزل السكتة الدماغية مصممة لتلبية معيار االنبعاثات العادم وأيضا
+مناسبة لمجموعة واسعة من الثقيلة قبالة - تطبيقات الطريق السريع.</string>
+    <string name="ZuteUse6">لوتس سفيرو - أبي CI4 يمكن استخدامها في أحدث انخفاض االنبعاثات وعالية األداء محرك النقل البري والبناء وغيرها
+من الصناعات.</string>
+    <string name="ZutePrice6">110</string>
+    <string name="ZuteBenefit6_1">-حماية متفوقة ضد الفرامل الحرارية ويتحمل في درجة حرارة عالية .</string>
+    <string name="ZuteBenefit6_2">-انخفاض انبعاث العادم .</string>
+    <string name="ZuteBenefit6_3">-اداء ممتاز في عملية الثقيلة .</string>
+    <string name="ZuteBenefit6_4">-الأكسدة متفوقة والاستقرار الحراري . </string>
+    <string name="ZuteBenefit6_5">-فترة أطول في استنزاف الوقود واطالة عمر المحرك. </string>
+
+
+
+    <string name="Zut7">زيت الفرامل</string>
+    <string name="ZutDis7">لوتس زيوت الفرامل طراز دوت-3 هو عالي الجودة الفرامل السيارات طبقاََ للمواصفات الالمانية دوت -3 وساي J1793.</string>
+    <string name="ZuteUse7">- زيت لوتس الفرامل السائل تستخدم عادة في أنظمة الفرامل وطبول الفرامل وكذلك مصنع وفق أعاله المعايير الدولية .</string>
+    <string name="ZutePrice7">110</string>
+    <string name="ZuteBenefit7_1">-ضمان الأداء في نطاق درجة الحرارة العادية والعالية.</string>
+    <string name="ZuteBenefit7_2">-يوفر الحماية ضد الصدا والتاكل.</string>
+    <string name="ZuteBenefit7_3">-متوافق مع الاختام المطاطية .</string>
+    <string name="ZuteBenefit7_4">-امتزاج مع غيرها من الاثير جليكول المعتمدة .  </string>
+    <string name="ZuteBenefit7_5">-جيد لرد الكبح ويقلل من فرص قفل البخار . </string>
+
+
+    <string name="oils_Eles">زيوت اخرى</string>
+
+    <string name="Zut8">شحم كـــالسيوم</string>
+    <string name="Zut9">ماء الاتيتر</string>
+    <string name="Zut10">زيت تنظيف المحركات 4 لتر</string>
+    <string name="Zut11">زيت بنزين كلاسيك 5W30</string>
+    <string name="Zut12">زيت بنزين كلاسيك 5W40</string>
+    <string name="Zut13">زيت كمبروسورات</string>
+
+
+
+
+
+
+    <string name="Tiers1">منتجات شركة رودسن</string>
+    <string name="Tiers1Dis1">منتج تجريبي 4</string>
+
+    <!--<string name="ZutePrice7">110</string>-->
+
+    <string name="Tiers2">
+منتجات شركة هابيلد</string>
+    <string name="Tiers1Dis2">اطارات هابليد.</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+    <string name="Tiers3">منتجات شركة هابيلد</string>
+    <string name="Tiers1Dis3">تواير هابليد للمعدات الثقيلة.</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+
+
+    <string name="Battery1">منتجات شركة هنشو</string>
+    <string name="BatteryDis1">بطاريات هنشو الكترونية.</string>
+    <!--<string name="ZutePrice7">110</string>-->
+
+
+
+
+    <string name="whousAbout_statment_one">تأسست هيواويل في عام 2003 كوكالة حصريه لــ Arlube ومنذ ذلك الحين وهي تنمو بشكل متصاعد حني اصبحنا وكلاء كذلك حصريون لكل من: زيوت اللوتس ، زيوت ريڨـر.
+وبمساعدة المتخصصين في مجال زيت التدفئة والوقود في الخلفية لدينا قاعدة متينة لمواجهة تحديات الغد ، حالياً نقوم من موقع المؤسسة بالتوريد لعملائنا في كل محافظات اليمن.</string>
+    <string name="whousAbout_statment_tow">
+        الإلتزام بالتفوق
+نحن نؤمن بأن نجاحنا يكمن في محافظتنا على السمعة الطيبة التي اكتسبناها نتيجة التزامنا القوي بتقديم خدمات ومنتجات ذات جودة عالية , بالإضافة إلى سعينا الجاد للمحافظة على رضا العملاء , نحن نعلم جيدا أن هذا يتطلب الاستثمار المستمر لتحديث وترقية أصولنا ، كي نعمل وفق أعلى المعايير التقنية ، وتطوير منسوبي المؤسسة ليكونوا قادرين على الحفاظ على الأداء المتفوق .
+نسعى دوما إلى مواكبة العصر من خلال توفير أحدث الآلات والمعدات الحديثة ذات التقنية العالية وتوظيف الكادر الكفؤ وهذا ما يجعل الشركة في توسع وتطور دائم.
+نقدم منتجات ذات جودة عالية تنال رضا المستهلك من خلال تطبيق المواصفات والمعايير الدولية.لقد بنينا أعمالنا على قاعدة صلبة من الثقة والمصداقية، حيث تقوم جميع تعاملاتنا مع عملائنا وشركائنا على مبدأ الثقة، حتى ولو أدى هذا الأمر الى التضحية بربح قصير الأجل من أجل بناء علاقة طويلة الأجل. لذلك يضع عملاؤنا ثقتهم بنا لأنهم يعرفون مدى حرصنا على تلبية احتياجاتهم في كل مرة. اضافة الى أخلاقياتنا المهنية العالية التي يلتزم بها جميع موظفينا.
+نسعى إلى الامتياز في كل ما نقدمه من منتجات وخدمات، ونتميز بالمهارة في استخداماتنا للتكنولوجيا كما تعمل الاليات لدينا بأداء يرتقي إلى أعلى المستويات. كما تمتاز خدماتنا ما بعد البيع وخدمات الصيانة بجودة رفيعة المستوى، وتنطبق نفس السمعة الفائقة على المنتجات الراقية التي نقوم بتوزيعها . ونحن نبذل دائماً جهودا إضافيةً سعياً لإرضاء عملائنا.
+يمثل الالتزام الكامل منهجنا في كل مشروع نقوم به وفي كل شراكة نعقدها، حيث نقدم الدعم والإشراف في كل مشروع حتى يتم إنجازه، بل وحتى بعد الانجاز. ويتجلى كذلك بالتزامنا نحو عملائنا وشركائنا وموظفينا في بناء مهاراتهم وإثراء معلوماتهم من خلال برامج التدريب والتطوير.
+يسود الودّ والدفء جميع تعاملاتنا. ويمتد هذا الدفء إلى عملائنا وشركائنا، حيث نتشارك في الأفكار والمشاكل وعمليات اتخاذ القرار ما أمكن، وهذا برأينا عامل أساسي لبناء العلاقات طويلة الأمد. أما على الصعيد الداخلي، فإننا ننظر إلى موظفينا باعتبارهم جزءاً من عائلتنا الكبيرة، ونشجعهم على المشاركة والإسهام في أي شأن وعلى أي مستوى.
+
+    </string>
+    <string name="whousAbout_statment_three">
+        فلدينا تحصلون على كل شئ من جهة واحدة! فبفضل السعة الشاسعة لمخازننا وأحدث تقنيات التعبئة نستطيع في أي وقت وبسرعة ومرونة تلبية رغباتكم واحتياجاتكم! قدرة توريد فوريه فترات توريد قصيرة ودعم سريع، عندما يتطلب الأمر ذلك - هذه هي المميزات التي نضمنها لكم يوم بيوم! بدون إذا وبدون لكن نهيئ أنفسنا لتلبية احتياجاتكم! فأسلوب العمل التشاركي هو حجر الأساس في فلسفة مؤسستنا.
+منذ الانطلاقة الأولى، حددت إدارة " هيواويل " رسالتها بكل وضوح وهي أن تكون المؤسسة الرائدة في مجال تموين السوق بمنتجات الزيوت عالية الجودة وذلك من خلال امتلاكها لأفضل الزيوت والتي هي مطابقة لأعلى المعايير الصناعية والاستمرار في تطوير المجتمع والمحافظة على الأداء المتفوق لفريق عملها المهني وكذلك توفير بيئة عمل آمنة ومحفزة .ولدينا مجموعة كاملة من منتجات زيوت التشحيم للسيارات والشاحنات والتي تم تطويرها بناء على خلاصة التكنولوجيا العالمية في مجال زيوت تشحيم المحركات صديقة للبيئة عالية السلاسة والتحمّل تحافظ على سلامة المحرك وتمنحه أفضل مستويات الأداء في مختلف ظروف القيادة مع استهلاك أقل للوقود ولذلك يوصي بها كبار صانعي السيارات ويُعتمد عليها في أكثر من 60 بلداً حول العالم.
+    </string>
+    <string name="NoInfo">لايوجد معلومات متوفره</string>
+    <string name="liter">1 لتر</string>
+
+
+
+
+</resources>
